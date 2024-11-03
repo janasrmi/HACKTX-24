@@ -1,0 +1,13 @@
+/* Navbar specific styles */
+nav{
+    display: flex-start;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    margin-right: 1rem; /* Add some space between items */
+}
+
+
+  
